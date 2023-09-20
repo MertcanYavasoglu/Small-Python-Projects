@@ -1,6 +1,6 @@
-num1 = float(input("İlk sayiyi giriniz: "))
-num2 = float(input("İkinci sayiyi giriniz: "))
-operation = input("+ - x / işlemlerinden istediğinizi giriniz: ")
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+operation = input("+ - x / Enter any of the given operations: ")
 
 if (operation == '+'):
     output = num1 + num2
