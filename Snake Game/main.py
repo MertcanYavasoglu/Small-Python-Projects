@@ -3,6 +3,8 @@ import tkinter as tk
 import random
 
 # THIS CODE IS UNFINISHED 
+# THIS CODE IS UNFINISHED 
+# THIS CODE IS UNFINISHED 
 
 window = Tk()
 window.title("Snake")
